@@ -1,3 +1,7 @@
+Gracias por llamar a los servicios de credito de Home Depot, mi nombre es pablo, podria brindarme su nombre y su apellido por favor?
+
+6035320
+
 Me acabo de mudar de casa y quisiera actualizar mi direccion!
 - Felicidades! Debe estar muy contento, suerte en su nuevo hogar.
 
@@ -37,7 +41,6 @@ STORED CHECKING ACCOUNT:
 
 - PREGUNTAR SI QUIERE USAR LA CUENTA REGISTRADA EN EL SISTEMA QUE TERMINA CON LOS DIGITOS XXXX
 - Confirm caller is owner of the account
-- 
 
 
 DEBIT CARD:
@@ -91,8 +94,49 @@ PROMOTIONS (DEFERRED INTEREST)
 "Lamento informarle que que su factura cuenta con un descuento especial del 5% por lo cual no aplica para la promocion. La razon 
 es que no se puede tener 2 promociones al mismo tiempo". 
 
+COMPLATINS:
 
-agosto 15 / 2013 (today)
-agosto 05 / 2013 (promo expire date)
-intereses diferidos (38.37)
-agosto 25 / 2013 (ultimo dia para pagar)
+handle and escalate complaints properly
+capture the voice of the consumer
+
+Identify and capture / research, resolve, respond and close / escalate (if necessary) / improve consumer experience
+
+VERIFICATION
+
+pch/verf name+last4ssn/
+pch/verf thru IVR/
+pch/verf full ssn/
+pch/verf ANI/
+
+AU/verf pch name+last4ssn/q
+AU/verf pch name+zip code/	
+AU/verf pch name+psword/
+AU/verf ANI/
+
+3rd party/verf pch name/
+
+store rep/verf name&store#/verf pch name&PIC ID
+
+----------------------------
+
+PAGO POR TELEFONO:
+
+rqst PBP/process pbp 0for $00.00 adv 48 hr ET/ adv new bal+avail (adv bal+mpd+dd)
+
+PAGO POR TELEFONO Y REMOVE LATE FEE:
+
+
+rqst PBP+rmve LF/process pbp for $0.00 adv 48 hr ET + rmve LF $0.00 adv 1-2 BC/adv new bal+avail (adv bal+mpd+dd)
+---------------------------------------
+
+PROMO EXTENTION COUPON:
+
+rqstd promo xtension to ? months/xtended promo from (date) to ? months due 2 cpn sent on (date), adv 1-2 BC / loyalty+AO
+
+PROMO SAME PROJECT:
+
+rqstd promo xtension to ? months/xtended promo from (date) to ? months due 2 related to Bal ID ?, adv 1-2 BC / loyalty+AO
+
+AJUSTES DE INTERESES:
+
+rqstd to adj promo IC/adj bypassing system flow since has revolv IC+promo IC from BAL ID ? ** adv 1-2 BC and new bal
