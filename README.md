@@ -140,3 +140,7 @@ rqstd promo xtension to ? months/xtended promo from (date) to ? months due 2 rel
 AJUSTES DE INTERESES:
 
 rqstd to adj promo IC/adj bypassing system flow since has revolv IC+promo IC from BAL ID ? ** adv 1-2 BC and new bal
+
+https://www.plataformaarquitectura.cl/cl/762322/celula-arquitectura-segundo-y-tercer-lugar-por-plan-maestro-en-cerros-nutibara-y-la-asomadera-medellin/54e20ca8e58ece56f5000011-esquema-urbano-acti
+
+
