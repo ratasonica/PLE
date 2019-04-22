@@ -144,3 +144,128 @@ rqstd to adj promo IC/adj bypassing system flow since has revolv IC+promo IC fro
 https://www.plataformaarquitectura.cl/cl/762322/celula-arquitectura-segundo-y-tercer-lugar-por-plan-maestro-en-cerros-nutibara-y-la-asomadera-medellin/54e20ca8e58ece56f5000011-esquema-urbano-acti
 
 
+ENGLISH CLASS:
+
+Could you please confirm your mailing address?
+I'm sorry to hear that
+The card is active to be use 
+
+Provide with something (provideme with your address)
+Provide to someone (provide to the client)
+
+You will percieve 1 or 2 minutes of silence while I work on this
+Did you say blablah?? Ok Thank you
+
+How much is the transaccion for?
+Do you remember around which date/month the purchase was made?
+
+CONECTOR WORDS:
+
+Therefore - Por lo tanto
+
+CONDITION & NON CONDITION  
+In that case
+Otherwise
+Now 
+While
+As long as	Despite
+
+EXAMPLE & COMPARISON
+For example
+As
+In the same way
+On the other hand
+Unlike
+
+ORDERING
+First, Second...
+Then
+Next 
+Further 
+Finally
+
+REINTRODUCTION OF TOPIC
+Regarding 
+For
+In connection with
+
+ADDITIONAL INFO
+Besides
+Additionally
+In additon to
+At least
+
+CONTRAST
+However
+Yet
+On the contrary
+Originally
+Although
+Even Though
+
+ASKING		SAYING YES		SAYING NO
+Can yo..?		Definitely/Absolutely	Well, I'm afraid of + resason
+Could you..?	Yes, of course		Well, it seems that...
+		Yes, that's fine
+
+Do you think you could..?	"		"
+Would you prefer to..?	Certainly		"
+
+PROVIDING OPTIONS
+The cheaper option is... 
+The best price is...
+A better choice is...
+The option most customers prefer is...
+The quickest option is..
+The ideal scenario is..
+
+MAKE
+
+Plans & Descisions:
+Make a choice
+Make a decision
+Make a suggestion
+Make a recommendation
+Make an appointment
+Make an arragement
+
+Banking:
+Make a payment
+Make a purchase
+Make a deposit
+Make a pymt arragement
+Make a transfer
+Make a balance tranfer
+
+Expressions:
+Make a fortune
+Make a bundle
+Make a profit
+Make a living
+Make a phone call
+Make an offer
+Make a mistake
+Make an exception
+Make a diference 
+
+DO
+Non-specific Activity:
+Do something	
+Do anything
+Do nothing
+Do everything
+
+Work,Jobs,Tasks:
+Do a great Job
+Do the work
+Do the assignment
+Do your best
+Do exercise
+
+Expressions:
+Do me a favor
+Do well
+Do business
+Do the math
+Do the minimum
+
