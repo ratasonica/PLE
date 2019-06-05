@@ -269,3 +269,24 @@ Do business
 Do the math
 Do the minimum
 
+
+
+Thank you for calling Home Depot credit services. This is Pablo. May I have your name?
+Thank you for calling Home Depot credit services. My name is Pablo. Can you provide your name as it appears on the card?
+Thank you for calling Home Depot credit services. This is pablo How can I make your day better?
+
+Could you please confirm your mailing address? I'm sorry to hear that The card is active to be use
+
+Provide with something (provideme with your address) Provide to someone (provide to the client)
+
+You will percieve 1 or 2 minutes of silence while I work on this Did you say blablah?? Ok Thank you
+
+How much is the transaccion for? Do you remember around which date/month the purchase was made?
+
+How would you like to pay? How much would you like to pay?
+
+You can rest assured sir that your payment was taken successfully.
+
+To confirm, today *** you authorize Home Depot to take $$AMOUNT$$ from your checking acctt ending in **. 
+
+I'll be more than happy to send you a copy of your receipt.
